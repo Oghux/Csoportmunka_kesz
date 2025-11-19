@@ -35,3 +35,10 @@ img{
 #link a:hover{
  color: rgba(81, 255, 0, 0.288)
 }
+div {
+  background-color: lightgrey;
+  width: 250px;
+  border: 15px solid rgb(255, 136, 0);
+  padding: 25px;
+  margin: 20px;
+}
